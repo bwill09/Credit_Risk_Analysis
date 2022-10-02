@@ -45,4 +45,4 @@ Low risk had a precision rate of 100% and with a lower recall at 40% compared to
 <img width="686" alt="Screen Shot 2022-10-02 at 4 59 50 PM" src="https://user-images.githubusercontent.com/106555873/193476075-aaa42399-4971-42cc-91a5-f066088ec2c4.png">
 
 
-[Credit_Risk_Analysis]()
+[Credit_Risk_Analysis](https://github.com/bwill09/Credit_Risk_Analysis)
