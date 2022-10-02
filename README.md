@@ -7,7 +7,7 @@ The goal of the project is to create insight in using Machine Learning statistic
 In order to successful complete the analysis, we use different Machine Learning techniques to train and evaluate the data. The data we use has an unbalanced classification issue which stems from the number of good loans outweighing the amount of risky loans. For more reasonable prediction and improve the accuracy score Machine Learning algorithms were needed to be implemented and utilized to resample the data. These algorithms include RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN, BalancedRandomForestClassifer, and EasyEnsembleClassifier
 
 ### Resources 
-* Dataset from : [LoanStats_2019Q1]()
+* Dataset from : [LoanStats_2019Q1](https://github.com/bwill09/Credit_Risk_Analysis/blob/main/LoanStats_2019Q1.csv)
 
 #### Deliverable 1: Resampling to Predict Credit Risk
 
